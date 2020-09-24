@@ -1,0 +1,6 @@
+Corn is infected with Rust Common
+Corn is infected with Northern Leaf Blight
+Corn is Healthy
+Tomato is infected with Early Blight
+Tomato is infected with Late Blight
+Tomato is Healthy
